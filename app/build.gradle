@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.renault.tbox.iconpack'
+    namespace 'com.renault.tbox.iconpack.gold'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.renault.tbox.iconpack"
+        applicationId "com.renault.tbox.iconpack.gold"
         minSdk 21
         targetSdk 34
         versionCode 1
